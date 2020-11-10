@@ -1,0 +1,27 @@
+{
+  "name": "tavutus",
+  "version": "1.0.0",
+  "description": "Algorithm to hyphenate Finnish words",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesakilp/tavutus.git"
+  },
+  "keywords": [
+    "hyphenation",
+    "finnish",
+    "language"
+  ],
+  "author": "Vesa Kilpiäinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vesakilp/tavutus/issues"
+  },
+  "homepage": "https://github.com/vesakilp/tavutus#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
