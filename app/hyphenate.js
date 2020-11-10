@@ -1,3 +1,4 @@
 exports.hyphenate = function(word) {
-    return "word";
+    let hyphenated_word_arr = word.split("");
+    return hyphenated_word_arr;
 };
